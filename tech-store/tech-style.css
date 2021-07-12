@@ -1,0 +1,88 @@
+.image-width1{
+    width: 50% ;
+
+
+
+}
+.container{
+  margin-bottom: 50px ;
+}
+.style1{
+  background-color: #F7CAC9;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.background-1{
+  background-color: #92A8D1;
+
+
+
+}
+.style2{
+   background-color: #F7CAC9;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 600;
+   border-radius: 20px;
+   padding: 10px;
+ 
+}
+.background-2{
+  background-color: #004E7C;
+ 
+
+
+}
+.style3{
+  padding-left: 10px ;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-align: justify; 
+  margin-top: 30px ; 
+  margin-left: 30px ;
+}
+.img-1{
+  padding: 15px;
+}
+.Tech1{
+  margin-left: 30px;
+  border-radius: 20px;
+  margin-bottom: 20px ;
+
+}
+.style4{
+  margin-bottom: 20px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-align: justify; 
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightslategrey ;
+  border-radius: 10px ;
+}
+.button1{
+   border-radius: 20px; 
+
+
+
+}
+#product1{
+ color: #34568B;
+
+
+
+}
+.back1{
+   margin-top: 100px ;
+
+
+
+}
+
+.color{
+    background-color: #F7CAC9; 
+    margin: 8% auto ;
+
+
+}
